@@ -4,3 +4,6 @@ This is my first GitHub project.
 
 ## Team
 - AI Club
+## What I Learned
+
+I learned how to use Git and GitHub.
